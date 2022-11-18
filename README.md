@@ -1,2 +1,0 @@
-# icepproject
-WIL Code
